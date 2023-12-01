@@ -4,7 +4,7 @@
 title = Dop
 
 # (str) Package name
-package.name = dop
+package.name = myapp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
